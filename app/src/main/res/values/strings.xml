@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Your Video Games</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="teks_dummy_title_game">The Last For US 5</string>
+    <string name="teks_dummy_release_date">Release date 2022-02-02</string>
+    <string name="teks_4_5">4.5</string>
+    <string name="teks_dummy_developers">Rockstar Game</string>
+    <string name="teks_dummy_player">200 Played</string>
+    <string name="teks_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="teks_game_for_you">Game For You</string>
+    <string name="teks_release_date_">Release date %s</string>
+    <string name="teks_detail">Detail</string>
+    <string name="teks_search_game_name">Search Game Name</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="teks_favorite_games">Favorite Games</string>
+    <string name="teks_favorite_empty">No Data For Your Favorite</string>
+    <string name="teks_detail_favorite_empty">add your favorite game and it will be easy to access it here</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b3e51</color>
+    <color name="colorPrimaryDark">#15242c</color>
+    <color name="colorPrimaryTeks">#15242c</color>
+    <color name="colorAccent">#94a4ac</color>
+    <color name="colorPrimaryText">#2E2D2D</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTextIcons">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorHintText">#BDBDBD</color>
+    <color name="colorMeetingInvitationStart">#01B763</color>
+    <color name="colorMeetingInvitationEnd">#2CCF7E</color>
+
+
+    <color name="dark">#131415</color>
+    <color name="dark_transparant">#85131415</color>
+    <color name="dark2">#9b9b9b</color>
+    <color name="background">#FFFFFF</color>
+
+
+    <color name="primary_soft">#7E2B3E51</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="abu1">#D6D6D6</color>
+    <color name="abuabu">#ECECEC</color>
+    <color name="abu1_tipis">#B4CACACA</color>
+    <color name="pink">#B4FACECE</color>
+    <color name="pink_transparan_40">#66FACECE</color>
+
+    <color name="red">#FF2C2C</color>
+
+    <color name="abu_pekat">#838383</color>
+
+    <color name="transparant">#00FFFFFF</color>
+
+    <color name="shimmer_color_text">#dddddd</color>
+    <color name="shimmer_color_background">#F3F3F3</color>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:paddingVertical="@dimen/_5sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/iv_thumb"
+            app:shapeAppearanceOverlay="@style/roundedImage"
+            android:scaleType="centerCrop"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="@dimen/_75sdp"
+            android:src="@drawable/ic_loading_image"/>
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/_4sdp"
+            android:layout_marginHorizontal="@dimen/_10sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_title"
+                style="@style/title12"
+                android:text="@string/teks_dummy_title_game"/>
+
+            <TextView
+                android:textColor="@color/abu_pekat"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:id="@+id/tv_release_date"
+                style="@style/body10"
+                android:text="@string/teks_dummy_release_date"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:padding="@dimen/_3sdp"
+                    android:layout_width="@dimen/_15sdp"
+                    android:layout_height="@dimen/_15sdp"
+                    android:src="@drawable/ic_star"/>
+
+                <TextView
+                    android:id="@+id/tv_rating"
+                    android:textColor="@color/abu_pekat"
+                    android:text="@string/teks_4_5"
+                    style="@style/body10"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</layout>
